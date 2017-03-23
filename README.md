@@ -1,6 +1,6 @@
 # MikeMakes DIY Electric Follow Focus
 
-[Watch the YouTube video here](https://www.youtube.com)
+[Watch the YouTube video here](https://www.youtube.com/watch?v=2GvocGCTPuo)
 
 This is the code/part library which coencides with the video.
 
